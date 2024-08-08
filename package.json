@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "@types/node": "^22.1.0",
+    "mysql2": "^3.11.0"
+  }
+}
